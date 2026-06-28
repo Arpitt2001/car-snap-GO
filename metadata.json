@@ -1,0 +1,11 @@
+{
+  "name": "CarDex",
+  "description": "Real World Car Collector",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
